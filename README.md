@@ -22,7 +22,7 @@ Une architecture micro-services complète pour la gestion des virements et bén�
 
 Le projet suit une architecture micro-services moderne avec les composants suivants :
 
-![Architecture](assets\architecture.svg)
+![Architecture](assets/architecture.svg)
 
 ## 🛠️ Technologies Utilisées
 
